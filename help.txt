@@ -1,0 +1,10 @@
+`!add`: add some amount of money to user's overall balance.
+
+`!bal`: return the user's current balance.
+
+`!bet [amount] [topic] [state]`: bet some amount on a given topic for or againt
+	weather something will happe, example: `!bet 300 over-25 true` this user bets
+	the kills will be over-25 another user can bet on this topic over-25 false to
+	bet the kills will be under-25 unfortunately this is how bet works. 
+
+`!active_bets`: list's all the active bets.
